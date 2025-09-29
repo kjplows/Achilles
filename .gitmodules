@@ -1,0 +1,3 @@
+[submodule "grid_submission"]
+	path = grid_submission
+	url = https://github.com/kjplows/Achilles-grid-scripts.git
